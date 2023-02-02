@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    width: 100%;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.heading {
+    padding: 1rem;
+    background-image: url('../img/paint6.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.modal-img {
+    max-width: 100%;
+    max-height: 60vh;
+    width: auto;
+    height: auto;
+    padding-bottom: 10px;
+}
+
+.prev-img {
+    max-width: 100%;
+    max-height: 60vh;
+    width: auto;
+    height: auto;
+}
+
+/* Footer */
+footer {
+    background-color: rgb(245, 245, 255);
+    padding: 1rem;
+    text-align: center;
+    font-size: .8em;
+}
